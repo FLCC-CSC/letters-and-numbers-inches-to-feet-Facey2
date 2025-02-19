@@ -27,7 +27,7 @@ inches = int(input('Enter the number of inches: '))
 feet = inches // 12 
 
 Left_Over = inches % 12
-print()
+
 print(f'{inches} inches is {feet} feet, and {Left_Over} inches')
     
     
